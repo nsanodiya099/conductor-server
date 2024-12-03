@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="conductor-server-3.16.0-SNAPSHOT-boot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server-jar/conductor-server-3.16.0-SNAPSHOT-boot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
